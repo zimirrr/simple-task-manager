@@ -14,7 +14,7 @@ Usually such region is divided into squares and only one mapper at a time works 
 
 # How does it work?
 
-A user can create a **project** with consists of a large region on the map (e.g. a city district).
+A user can create a **project** which consists of a large region on the map (e.g. a city district).
 This region is divided into smaller areas (e.g. 1x1km large squares) the so called **tasks**.
 It is also possible to create tasks by **importing geometries** from a file (e.g. a GeoJSON file).
 
